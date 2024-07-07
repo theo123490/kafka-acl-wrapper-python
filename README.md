@@ -1,0 +1,1 @@
+A simple python wrapper to validate kafka acl
